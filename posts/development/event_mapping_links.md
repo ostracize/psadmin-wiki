@@ -18,6 +18,10 @@ permalink: /posts/development/event_mapping_links/
 
 * [Blog posts about Event Mapping](https://pe0ples0ft.blogspot.com/search?q=Event+mapping)
 
+*Jim Marion on Event Mapping*
+
+* [Blog posts about Event Mapping](https://jjmpsj.blogspot.com/search/label/Event%20Mapping)
+
 *psadmin.io on Event Mapping*
 
 * [Event Mapping Demo](http://psadmin.io/2016/02/10/8-55-event-mapping-demo/)
