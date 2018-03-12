@@ -3,8 +3,8 @@ import os
 def createIndexFile(startpath, indexFile):
     exclude = ['_images']
     for root, dirs, files in os.walk(startpath):
-        sorted(dirs)
-        sorted(files)
+        dirs.sort()
+        files.sort()
         files = [f for f in files if not f[0] == '.']
         dirs[:] = [d for d in dirs if not d[0] == '.']
         dirs[:] = [d for d in dirs if d not in exclude]
