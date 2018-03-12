@@ -1,3 +1,5 @@
+before_install:
+  - npm install h5bp-wiki
 before_script:
   - git config user.email "dan@psadmin.io"
   - git config user.name "Travis-CI"
