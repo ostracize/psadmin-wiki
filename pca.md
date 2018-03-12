@@ -1,8 +1,4 @@
----
-title: Cloud Architecture
-layout: en
-permalink: /posts/pca/
----
+# PeopleSoft Cloud Architecture
 
 The PeopleSoft Cloud Architecture section includes the following technologies:
 

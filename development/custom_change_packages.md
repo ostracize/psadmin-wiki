@@ -1,8 +1,4 @@
----
-title: Working with a Custom Change Package
-layout: en
-permalink: /posts/development/custom_change_package/
----
+# Working with a Custom Change Package
 
 Author: Andy Dorfman
 

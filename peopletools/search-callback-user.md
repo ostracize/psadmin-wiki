@@ -1,8 +1,4 @@
----
-title: Search Framework Call Back User
-layout: en
-permalink: /posts/peopletools/search_callback_user/
----
+# Search Framework Call Back User
 
 In Oracle Support and in PeopleBooks, the Search Framework call back user is said to require the `PeopleSoft Administrator` role. Given the power that role gives to a user, this breaks many security policies. Thankfull, this role isn't required for the call back user. Instead follow these guidelines for security with the call back user:
 

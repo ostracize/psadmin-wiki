@@ -1,9 +1,13 @@
 import os
 
 def createIndexFile(startpath, indexFile):
+    exclude = ['_images']
     for root, dirs, files in os.walk(startpath):
+        sorted(dirs)
+        sorted(files)
         files = [f for f in files if not f[0] == '.']
         dirs[:] = [d for d in dirs if not d[0] == '.']
+        dirs[:] = [d for d in dirs if d not in exclude]
         level = root.replace(startpath, '').count(os.sep) - 1
         indent = ' ' * 2 * (level)
         directory = os.path.basename(root)

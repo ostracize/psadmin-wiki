@@ -1,8 +1,4 @@
----
-title: Mass Resend Reports
-layout: en
-permalink: /posts/peopletools/resend_content_sql/
----
+# Mass Resend Reports
 
 [David Kurtz has a great post on resending reports in a "Not Posted" status](http://blog.psftdba.com/2008/04/bulk-re-sending-batch-output-to-report.html). The SQL he provides works on Oracle. The SQL below will do the same on MS SQL Server.
 

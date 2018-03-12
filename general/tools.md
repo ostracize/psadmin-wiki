@@ -1,10 +1,4 @@
----
-title: Software and Tools
-layout: en
-permalink: /posts/getting_started/tools/
----
-
-
+# Software and Tools
 This page is a collection of different tools that I use to make a PS Admin's job easier. Some of these are freeware or open source while others are worth paying for.
 
 ## Security

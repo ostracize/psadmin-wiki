@@ -1,8 +1,4 @@
----
-title: PeopleTools
-layout: en
-permalink: /posts/peopletools/
----
+# PeopleTools
 
 This section is for articles on PeopleTools features. This includes features on the *PeopleTools* menu like:
 

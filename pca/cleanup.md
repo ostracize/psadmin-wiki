@@ -1,10 +1,4 @@
----
-title: DPK Cleanup Process
-layout: en
-permalink: /posts/pca/cleanup/
----
-
-## DPK Cleanup Process
+# DPK Cleanup Process
 
 The DPK uses a process called "cleanup" to remove installed software and domains. The cleanup process uses Puppet to delete installed files and folders. You can run the cleanup process two ways:
 

@@ -1,10 +1,4 @@
----
-title: Event Mapping Links
-layout: en
-permalink: /posts/development/event_mapping_links/
----
-
-## A collection of links about Event Mapping
+# Event Mapping Links
 
 *Chris Malek on Event Mapping*
 

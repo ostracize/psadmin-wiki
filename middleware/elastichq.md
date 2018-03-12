@@ -1,8 +1,4 @@
----
-title: ElasticHQ
-layout: en
-permalink: /posts/middleware/elastichq/
----
+# ElasticHQ
 
 If you want a utility to help you monitor your Elasticsearch nodes and clusters, ElasticHQ is a plugin that can give you a nice GUI.
 
@@ -31,5 +27,5 @@ ElasticHQ is meant to give you a read-only view of the system. If you want to ma
 
 To view a node, enter the URL into the box at the top and click 'Connect'. If your node is part of a cluster, ElasticHQ will show the cluster's nodes. You can view the size of indexes, the stats of each node, and the cluster stats as well.
 
-![ElasticHQ Screenshot]({{ site.url }}/posts/images/ElasticHQOverview.png)
+![ElasticHQ Screenshot](_images/ElasticHQOverview.png)
 
