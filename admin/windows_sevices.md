@@ -1,8 +1,4 @@
----
-title: Windows Services
-layout: en
-permalink: /posts/admin/windows_services/
----
+# Windows Services
 
 ## Start/Stop Services
 

@@ -1,10 +1,4 @@
----
-title: WebLogic Demo Certificates
-layout: en
-permalink: /posts/admin/wl_demo_certs/
----
-
-## WebLogic Demo Certificates
+# WebLogic Demo Certificates
 
 The demo certificates delivered with WebLogic and used by the PIA are stored in the file:
 
